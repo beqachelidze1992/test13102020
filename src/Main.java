@@ -9,11 +9,9 @@ public class Main {
         System.out.println("asdlkjfdsrhvwebktrhe");
         System.out.println("asdlkjfdsrhvwebktrhe");
         System.out.println("asdlkjfdsrhvwebktrhe");
-        System.out.println("asdlkjfdsrhvwebktrhe");
-        System.out.println("asdlkjfdsrhvwebktrhe");
-        System.out.println("asdlkjfdsrhvwebktrhe");
 
 
+        System.out.println("test +-");
 
 
     }
