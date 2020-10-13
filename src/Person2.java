@@ -4,4 +4,10 @@ public class Person2 {
 
         System.out.println("test");
     }
+
+    public void f2(){
+
+        System.out.println("test2");
+    }
+
 }
